@@ -1,4 +1,4 @@
-# Next.js 15 Dashboard Starter [oginokairan10]
+# Next.js 15 Dashboard Starter [oginokairan11]
 
 A modern dashboard starter template built with Next.js 15, TypeScript, and Tailwind CSS 4. Perfect for users new to Next.js who want to quickly build rich, interactive dashboards.
 
